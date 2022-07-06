@@ -1,16 +1,4 @@
-# Student Management System Created Using Django
-This is a Simple Student Management System Developed While Learning Django.
-Feel free to make changes based on your requirements.
-
-[Front-end Template](http://adminlte.io "Admin LTE.io")
-
-
-[Project Demo on YouTube](https://www.youtube.com/watch?v=kArCR96m7uo "Django Student Management System Demo")
-
-And if you like this project, then ADD a STAR ⭐️  to this project 👆
-## Deployed to
-https://smswithdjango.herokuapp.com/
-
+# Student Profiling System
 
 ## Features of this Project
 
@@ -57,11 +45,6 @@ https://smswithdjango.herokuapp.com/
 |<img src="ss/admin1.png" width="400">|<img src="ss/staff5.png" width="400">|<img src="ss/student5.png" width="400">|
 |<img src="ss/admin6.png" width="400">|<img src="ss/staff6.png" width="400">|<img src="ss/student6.png" width="400">|
 
-
-
-## Support Developer
-1. Add a Star 🌟  to this 👆 Repository
-2. Follow on Twitter/Github
 
 
 ## Passport/Images
@@ -203,14 +186,6 @@ Email: student@student.com
 Password: student
 
 
-
-## For Sponsor or Projects Enquiry
-1. Email - jobowonubi@gmail.com
-2. LinkedIn - [jobic10](https://www.linkedin.com/in/jobic10 "Owonubi Job Sunday on LinkedIn")
-2. Twitter - [jobic10](https://www.twitter.com/jobic10 "Owonubi Job Sunday on Twitter")
-
-
-
 ## Project's Journey
 - [x] Admin/Staff/Student Login
 - [x] Add and Edit Course
@@ -249,11 +224,7 @@ Password: student
 - [x] Code Restructure - Very Important
 
 
-## Questions I asked While Developing This
-- https://stackoverflow.com/questions/63829896/is-there-a-specific-way-of-adding-apps-in-django/
-
-
-## Helpful Links
+## References
 - https://stackoverflow.com/questions/55969952/how-can-i-avoid-a-user-from-registering-an-already-used-email-in-django
 - https://stackoverflow.com/questions/7562573/how-do-i-get-django-forms-to-show-the-html-required-attribute
 - https://stackoverflow.com/questions/40910149/django-exists-versus-doesnotexist
