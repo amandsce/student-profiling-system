@@ -45,12 +45,6 @@
 |<img src="ss/admin1.png" width="400">|<img src="ss/staff5.png" width="400">|<img src="ss/student5.png" width="400">|
 |<img src="ss/admin6.png" width="400">|<img src="ss/staff6.png" width="400">|<img src="ss/student6.png" width="400">|
 
-
-
-## Passport/Images
-Images are from [Unsplash](https://unsplash.com)
-
-
 ## How to Install and Run this project?
 
 ### Pre-Requisites:
